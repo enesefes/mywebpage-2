@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9b8048e.chunk.css",
-    "main.js": "/static/js/main.0b8e09ff.chunk.js",
-    "main.js.map": "/static/js/main.0b8e09ff.chunk.js.map",
+    "main.css": "/static/css/main.272bb505.chunk.css",
+    "main.js": "/static/js/main.0b2cc6e2.chunk.js",
+    "main.js.map": "/static/js/main.0b2cc6e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.147274ae.js",
     "runtime-main.js.map": "/static/js/runtime-main.147274ae.js.map",
-    "static/js/2.00b8df95.chunk.js": "/static/js/2.00b8df95.chunk.js",
-    "static/js/2.00b8df95.chunk.js.map": "/static/js/2.00b8df95.chunk.js.map",
+    "static/js/2.45250fe2.chunk.js": "/static/js/2.45250fe2.chunk.js",
+    "static/js/2.45250fe2.chunk.js.map": "/static/js/2.45250fe2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.09b753fa1ad2d77a4f50a66da3530869.js": "/precache-manifest.09b753fa1ad2d77a4f50a66da3530869.js",
+    "precache-manifest.6d5042497e0117dbf4fe11ff2241fa3d.js": "/precache-manifest.6d5042497e0117dbf4fe11ff2241fa3d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b9b8048e.chunk.css.map": "/static/css/main.b9b8048e.chunk.css.map",
-    "static/js/2.00b8df95.chunk.js.LICENSE.txt": "/static/js/2.00b8df95.chunk.js.LICENSE.txt",
+    "static/css/main.272bb505.chunk.css.map": "/static/css/main.272bb505.chunk.css.map",
+    "static/js/2.45250fe2.chunk.js.LICENSE.txt": "/static/js/2.45250fe2.chunk.js.LICENSE.txt",
+    "static/media/Bubvisch-Logo.png": "/static/media/Bubvisch-Logo.f4a92929.png",
     "static/media/Logo.png": "/static/media/Logo.963bd212.png",
+    "static/media/bubvisch-app.png": "/static/media/bubvisch-app.dca0c9b6.png",
     "static/media/code.svg": "/static/media/code.ca3e33ae.svg",
+    "static/media/farabiulder-app.png": "/static/media/farabiulder-app.a37e0495.png",
+    "static/media/farabiulder_logo.png": "/static/media/farabiulder_logo.2a39039a.png",
     "static/media/logo-transparent.png": "/static/media/logo-transparent.82fed24c.png",
     "static/media/myphoto.jpg": "/static/media/myphoto.0c0d6022.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.147274ae.js",
-    "static/js/2.00b8df95.chunk.js",
-    "static/css/main.b9b8048e.chunk.css",
-    "static/js/main.0b8e09ff.chunk.js"
+    "static/js/2.45250fe2.chunk.js",
+    "static/css/main.272bb505.chunk.css",
+    "static/js/main.0b2cc6e2.chunk.js"
   ]
 }
